@@ -22,4 +22,4 @@ class Bcbbot(commands.Bot):
                                 " I SAID BEEP BOOP ( ͡° ͜ʖ ͡°)")
 
 
-bot = Bcbbot(command_prefix='!', description='''The cutest fucking robot''')
+bot = Bcbbot(command_prefix='!', description='''The cutest robot''')
