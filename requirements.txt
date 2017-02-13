@@ -1,4 +1,4 @@
-https://github.com/Rapptz/discord.py/tarball/async#egg=package-0.10.0a0
+discord.py
 requests
 PyYaml
 mcstatus
